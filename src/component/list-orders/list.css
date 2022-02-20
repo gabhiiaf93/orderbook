@@ -1,0 +1,17 @@
+.listElements {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.buy {
+  color: green;
+}
+.sell {
+  color: red;
+}
+.price {
+  padding-right: 10px;
+}
+.volume {
+  padding-left: 10px;
+}

@@ -1,0 +1,7 @@
+.order-book {
+  width: 200px;
+}
+.buttonPlacement {
+  display: flex;
+  justify-content: space-around;
+}
